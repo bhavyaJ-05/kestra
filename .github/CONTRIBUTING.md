@@ -42,7 +42,7 @@ To start contributing:
 - Clone the fork on your workstation:
 
 ```shell
-git clone git@github.com:{YOUR_USERNAME}/kestra.git
+git clone git@github.com:{YOUR_USERNAME}/kestra.git       //mention folder name if specific location is desired
 cd kestra
 ```
 
